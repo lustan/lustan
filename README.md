@@ -1,4 +1,11 @@
-## Hi there 👋
+大家好！👋 我是一名攻城狮。本仓库中的所有项目，均为助力团队提效、解决工作中的实际痛点而开发。
+Hi there! 👋 I'm an engineer. All the projects in this repository are developed to boost team efficiency and solve pain points in daily work.
+
+希望这些工具与解决方案能为你的工作带来便利，帮助团队更顺畅地开展协作。
+Hope these tools and solutions can bring convenience to your work and help your team operate more smoothly. 
+
+感谢每一位关注和支持我的朋友！你们的认可，是我持续优化这些项目的动力。
+Thank you to every friend who pays attention to and supports me! Your encouragement is the motivation for me to keep optimizing these projects.
 
 <!--
 **lustan/lustan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
