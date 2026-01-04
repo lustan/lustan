@@ -1,8 +1,8 @@
 # Hi there! 👋
 <p align="center">
-  大家好！ 👋 我是一名攻城狮。本仓库中的所有项目，均为助力团队提效、解决工作中的实际痛点而开发。
+  大家好！ 👋 我是一名攻城狮。本仓库中的项目，主要为助力团队提效、解决工作中的实际痛点而开发。
   <br>
-  <i>Hi there! 👋 I'm an engineer. All the projects in this repository are developed to boost team efficiency and solve pain points in daily work.</i>
+  <i>Hi there! 👋 I'm a software engineer. The projects in this repository are mainly developed to boost team efficiency and solve practical pain points at work.</i>
 </p>
 
 <p align="center">
@@ -15,12 +15,6 @@
   🔥 感谢每一位关注和支持的朋友！ 🔥
   <br>
   <i>Thanks to every friend who follows and supports!</i>
-</p>
-
-<p align="center">
-  你们的认可，是我持续优化这些项目的动力。
-  <br>
-  <i>Your encouragement is the motivation for me to keep optimizing these projects.</i>
 </p>
 
 <!--
